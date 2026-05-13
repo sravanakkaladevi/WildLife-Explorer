@@ -29,5 +29,5 @@ Created by **Sravan**
 MCA Student and aspiring frontend developer focused on building clean UI and nature-inspired visual designs. 
 
 - **GitHub:** [sravanakkaladevi](https://github.com/sravanakkaladevi)
-- **Instagram:** [_sravansravan824](https://www.instagram.com/_sravansravan824)
+- **Instagram:** [_sravansravan824](https://www.instagram.com/_sravansravan824_)
 - **Contact:** akkaladevisravankumar@gmail.com
